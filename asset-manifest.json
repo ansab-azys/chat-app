@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/recipe-app/static/css/main.011e6d63.css",
-    "main.js": "/recipe-app/static/js/main.a0537e86.js",
-    "index.html": "/recipe-app/index.html",
-    "main.011e6d63.css.map": "/recipe-app/static/css/main.011e6d63.css.map",
-    "main.a0537e86.js.map": "/recipe-app/static/js/main.a0537e86.js.map"
+    "main.css": "/chat-app/static/css/main.011e6d63.css",
+    "main.js": "/chat-app/static/js/main.cf3e75b4.js",
+    "index.html": "/chat-app/index.html",
+    "main.011e6d63.css.map": "/chat-app/static/css/main.011e6d63.css.map",
+    "main.cf3e75b4.js.map": "/chat-app/static/js/main.cf3e75b4.js.map"
   },
   "entrypoints": [
     "static/css/main.011e6d63.css",
-    "static/js/main.a0537e86.js"
+    "static/js/main.cf3e75b4.js"
   ]
 }
